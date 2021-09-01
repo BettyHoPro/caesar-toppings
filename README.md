@@ -1,8 +1,8 @@
 # Caesar-toppings Project
 
-Caesar-toppings http://localhost:8080/ is a multi-pages, online shopping and full-stack web API that provides browsers to order their meals online. Users can review the menu and add meals to the shopping cart. It is a cooperation learning teamwork project during enrolling in Lighthouse Labs Bootcamp.
+Caesar-toppings http://localhost:8080/ is a multi-pages, online shopping and full-stack web API  that allows browsers to order meals online. Users can review the menu and add meals to the shopping cart. It is a cooperation learning teamwork project during enrolling in Lighthouse Labs Bootcamp.
 
-## Skills
+## Tech Stack
 
 Sass, HTML, express, Ajax, Promise, jQuery and Javascript
 
